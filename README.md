@@ -1,2 +1,6 @@
 # hello-world
-Just a testing repository
+Hello, guys!
+
+I'm a student from NCCU.
+
+Welcome to my GitHub!
